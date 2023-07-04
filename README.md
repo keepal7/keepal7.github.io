@@ -1,2 +1,0 @@
-# youjin.github.io
-light
